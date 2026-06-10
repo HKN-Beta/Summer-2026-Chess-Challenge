@@ -47,11 +47,11 @@ Fill this table in as registrations are received.
 | --- | --- | --- |
 | Rust | [Thomas O'Donnell](https://github.com/iBoot32) | Open |
 | C | [Thomas Munson](https://github.com/TRMunson7) | Open |
-| C++ | [Elijah Jorgensen](https://github.com/galaxybomb23) | Open |
-| Python | [Alex Tauriainen](https://github.com/Aarynda)  | Open |
-| Matlab | [Arjun Siderys](https://github.com/asiderys) | Open |
+| C++ | [Elijah Jorgensen](https://github.com/galaxybomb23) : [Repo](https://github.com/galaxybomb23/Summer-2026-Chess-Challenge) | Open |
+| Python | [Alex Tauriainen](https://github.com/Aarynda) : [Repo](https://github.com/Aarynda/Summer-2026-Chess-Challenge) | Open |
+| Matlab | [Arjun Siderys](https://github.com/asiderys) : [Repo](https://github.com/asiderys/Summer-2026-Chess-Challenge) | Open |
 | gdscript | [Asher Sprigler](https://github.com/Legitimatemuffin) | Open |
-| Assembly | [Alexander Khalitov](https://github.com/alexanderkhalitov) | Open |
+| Assembly | [Alexander Khalitov](https://github.com/alexanderkhalitov) : [Repo](https://github.com/alexanderkhalitov/Summer-2026-Chess-Challenge) | Open |
 
 ## Phase 1: Registration
 
